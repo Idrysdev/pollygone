@@ -1,0 +1,56 @@
+/**
+* Montserrat
+*/
+@font-face{
+	font-family: 'Montserrat Thin';
+	src: url('../fonts/montserrat/Montserrat-Thin.otf');
+}
+@font-face{
+	font-family: 'Montserrat Light';
+	src: url('../fonts/montserrat/Montserrat-Light.otf');
+}
+@font-face{
+	src: url('../fonts/montserrat/Montserrat-Medium.otf');
+	font-family: 'Montserrat Medium';
+}
+@font-face{
+	src: url('../fonts/montserrat/Montserrat-SemiBold.otf');
+	font-family: 'Montserrat Semibold';
+}
+@font-face{
+	src: url('../fonts/montserrat/Montserrat-Bold.otf');
+	font-family: 'Montserrat Bold';
+}
+@font-face{
+	src: url('../fonts/montserrat/Montserrat-Black.otf');
+	font-family: 'Montserrat Black';
+}
+@font-face{
+	src: url('../fonts/montserrat/Montserrat-Regular.otf');
+	font-family: 'Montserrat Regular';
+}
+
+/**
+* Dax
+*/
+@font-face{
+	font-family: 'Dax';
+	src: url('../fonts/dax/Dax.ttf');
+}
+@font-face{
+	font-family: 'Dax Bold';
+	src: url('../fonts/dax/DaxBold.ttf');
+}
+@font-face{
+	font-family: 'Dax Light';
+	src: url('../fonts/dax/DaxLight.ttf');
+}
+@font-face{
+	font-family: 'Dax Medium';
+	src: url('../fonts/dax/DaxMedium.ttf');
+}
+
+/**
+* Roboto
+*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
